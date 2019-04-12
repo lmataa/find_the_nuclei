@@ -9,3 +9,5 @@ This dataset contains a large number of segmented nuclei images. The images were
 The architecture used is the U-net which is a variant of CNN that allows training with smaller datasets.
 
 ![U-arch](https://user-images.githubusercontent.com/47385329/56059334-20357d80-5d64-11e9-8936-de70fc636e11.png)
+
+![U-strategy](https://user-images.githubusercontent.com/47385329/56059589-afdb2c00-5d64-11e9-897b-29ee6838612e.png)
