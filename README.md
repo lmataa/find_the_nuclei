@@ -1,6 +1,6 @@
 # find_the_nuclei
 
-Hellow! This is a academic activity to show how to use Keras to segmentate nuclei images for biomedical purposes.
+Hellow! This is an academic activity to show how to use Keras to segmentate nuclei images for biomedical purposes.
 
 The dataset used here belongs to a [2018 competition](https://www.kaggle.com/c/data-science-bowl-2018).
 
